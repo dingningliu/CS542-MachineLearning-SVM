@@ -11,3 +11,5 @@ i. one versus the rest
 ii. one versus one
 
 To analyze accuracy, I will produce and analyze the multiclass confusion matrix in addition to examining the overall error rate.
+
+(The method conducted in python document is an SVM library to complete this assignment)
